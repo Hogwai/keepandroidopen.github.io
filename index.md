@@ -132,7 +132,7 @@ If you are an app developer, _**do not sign up**_ for the early access program, 
 
 —— _It is only through developer acquiescence that their takeover plan can possibly succeed._ ——
 
-Discourage fellow app developers and organizations from signing up to the program. Use community forums, social media, and blog posts to spread the message.
+Discourage fellow app developers and organizations from signing up to the program. Use community forums, social media, and blog posts to spread the message. Include the [FreeDroidWarn library](https://github.com/woheller69/FreeDroidWarn) in your code to inform your app users.
 
 ### Everyone: Make your voice heard
 
