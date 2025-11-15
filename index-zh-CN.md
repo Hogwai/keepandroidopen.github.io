@@ -44,8 +44,8 @@ site_copyright: "**版权:** 无。本著作已标记"
 当由该国家或地区的公民撰写投诉，并且电子邮件的语言是用该地区管理机构的官方语言之一编写的时，投诉的影响力尤具份量。索要一份投诉的 _书面确认_，并考虑将您收到的任何回复转发给[victory@keepandroidopen.org](mailto:victory@keepandroidopen.org)，以便我们精选并参考它们。
 #### European Union
 - 发邮件给《数字市场法》团队：[EC-DMA@ec.europa.eu](mailto:EC-DMA@ec.europa.eu?cc=dma@keepandroidopen.org)
-- 联系(DMA)团队：[https://digital-markets-act.ec.europa.eu/contact-dma-team_en](https://digital-markets-act.ec.europa.eu/contact-dma-team_en)
-- Send feedback on EU interplay between DMA and GDPR: [Consultation on joint guidelines on the interplay between DMA and GDPR](https://digital-markets-act.ec.europa.eu/consultation-joint-guidelines-interplay-between-dma-and-gdpr_en) until December 4.
+- 联系 DMA 团队：[https://digital-markets-act.ec.europa.eu/contact-dma-team_en](https://digital-markets-act.ec.europa.eu/contact-dma-team_en)
+- 发生意见反馈给欧盟 DMA 与 GDPR 相互作用: [有关DMA与GDPR相互作用的联合指南咨询](https://digital-markets-act.ec.europa.eu/consultation-joint-guidelines-interplay-between-dma-and-gdpr_en) 截止于12月4日
 - Email Antitrust: [COMP-GREFFE-ANTITRUST@ec.europa.eu](mailto:COMP-GREFFE-ANTITRUST@ec.europa.eu?cc=europe@keepandroidopen.org)
 - Complain to the [EU Competition Policy](https://competition-policy.ec.europa.eu/antitrust-and-cartels/contact_en)
 - ~~[EXPIRED] Send feedback on EU Digital Fairness Act: [EU Digital Fairness Act: Have Your Say](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14622-Digital-Fairness-Act_en)~~
