@@ -15,6 +15,10 @@ export default defineConfig({
       prefixDefaultLocale: false,
     },
   },
+  redirects: {
+    // TODO: swap
+    '/letter': '/draft-letter'
+  },
   vite: {
     plugins: [yaml()]
   },
