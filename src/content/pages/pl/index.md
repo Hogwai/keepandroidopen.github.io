@@ -47,7 +47,7 @@ Ta rejestracja będzie obejmować:
 
 Wbrew mglistej [wzmiance](https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html) o możliwym „zaawansowanym trybie”, który w przyszłości mógłby pozwolić „doświadczonym użytkownikom zaakceptować ryzyko instalowania oprogramowania, które nie jest zweryfikowane”, [opis programu](https://developer.android.com/developer-verification) ze strony Google nadal jasno stwierdza, że:
 
-> Począwszy od września 2026 Android będzie wymagał, aby wszystkie aplikacje były zarejestrowane przez zweryfikowanych deweloperów, aby mogły zostać zainstalowane na certyfikowanych urządzeniach z Androidem
+> Od września 2026 r. Android będzie wymagać, aby wszystkie aplikacje instalowane na certyfikowanych urządzeniach z Androidem były zarejestrowane przez zweryfikowanych deweloperów.
 
 Dopóki nie pokażą dowodów, że będzie dało się ominąć proces weryfikacji bez nadmiernych utrudnień, musimy wierzyć temu, co widnieje na ich oficjalnej stronie: że **wszystkie** aplikacje od niezarejestrowanych deweloperów **zostaną zablokowane**, gdy „zamykanie” platformy wejdzie w życie.
 
