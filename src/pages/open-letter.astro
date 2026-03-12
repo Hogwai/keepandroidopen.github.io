@@ -44,8 +44,8 @@ function mastodonDraftUrl(orgName: string, mastodonUrl: string): string {
   const url = new URL(mastodonUrl);
   const user = url.pathname.split('/').pop();
   const handle = `${user}@${url.hostname}`;
-  const text = `Thank you ${handle} for supporting Keep Android Open @keepandroidopen@techhub.social #KeepAndroidOpen`;
-  return `${url.origin}/share?text=${encodeURIComponent(text)}`;
+  const text = `Thank you ${handle} for supporting Keep Android Open at https://keepandroidopen.org/open-letter/#signatories @keepandroidopen@techhub.social #KeepAndroidOpen`;
+  return `https://share.joinmastodon.org/?text=${encodeURIComponent(text)}`;
 }
 
 function linkedinDraftUrl(orgName: string, linkedinUrl: string): string {
@@ -60,7 +60,7 @@ function linkedinDraftUrl(orgName: string, linkedinUrl: string): string {
     <div class="signatories" id="signatories">
       <div class="sig-rule"></div>
       <h2>Signatories</h2>
-      <p class="sig-count">{signatures.length} organizations</p>
+      <p class="sig-count">{signatures.length} organizations from {new Set(signatures.map((s: any) => s.region).filter(Boolean)).size} countries</p>
       <ol>
         {signatures.map((sig: any) => (
           <li>
