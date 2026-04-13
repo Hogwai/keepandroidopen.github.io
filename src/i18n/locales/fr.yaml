@@ -113,7 +113,7 @@ impact_gov_p1: "Google a un <a href=\"https://www.aclu.org/news/free-speech/app-
 impact_gov_p2: "<a href=\"https://www.eff.org/deeplinks/2025/11/application-gatekeeping-ever-expanding-pathway-internet-censorship\" target=\"_blank\">L’EFF qualifie &#8599;</a> le contrôle d’accès aux applications de \"voie toujours plus large vers la censure d’Internet.\""
 
 # Advanced flow
-flow_heading: "La \"trappe de secours\" de Google est un piège.
+flow_heading: "La \"trappe de secours\" de Google est un piège."
 flow_intro: "Google indique que les \"utilisateurs avancés\" peuvent <a href=\"https://android-developers.googleblog.com/2026/03/android-developer-verification.html\" target=\"_blank\">\"toujours installer\"</a> des applications non vérifiées. Voici à quoi cela ressemble <i>concrètement</i> :
 flow_step1: "Accéder aux paramètres système et recherchez les options pour les développeurs."
 flow_step2: "Appuyer <strong>sept fois</strong> sur le numéro de build pour activer le mode développeur."
