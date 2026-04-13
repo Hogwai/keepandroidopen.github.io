@@ -83,9 +83,6 @@ footer_help_translate: "Aider à traduire"
 # translated as comments; they will automatically fall back to English.
 # ============================================================================
 
-# Meta
-description: "Votre téléphone est sur le point de ne plus vous appartenir. En septembre 2026, Google bloquera toutes les applications Android dont le développeur ne se sera pas enregistré auprès de ses services."
-
 # Hero
 # hero_lede: "Your phone is about to stop being yours."
 # hero_countdown_label: "days until lockdown"
@@ -170,7 +167,6 @@ act_google_heading: "Employé(e)s de Google"
 act_google_text: "Si vous avez des connaissances sur la mise en œuvre technique du programme ou sur sa justification interne, contactez <a href=\"mailto:tips@keepandroidopen.org\">tips@keepandroidopen.org</a> depuis une machine <em>personnel</em> et un compte <em>non-Gmail</em>. Confidentialité absolue garantie."
 
 # Voices section
-voices_heading: "Ce qu'ils disent"
 voices_press: "Press Tech"
 voices_editorials: "Éditoriaux & analyses"
 voices_orgs: "Organisations & lettres ouvertes"
